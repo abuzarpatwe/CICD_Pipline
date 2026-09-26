@@ -1,0 +1,15 @@
+{
+	"name": "devdf25",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "25a78c34-e014-4dfd-b1bb-60956810f141",
+		"tenantId": "d6658b0d-8710-4c9e-a93a-f2dd8831d79c"
+	}
+}
